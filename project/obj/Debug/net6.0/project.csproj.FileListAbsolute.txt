@@ -1,0 +1,15 @@
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/bin/Debug/net6.0/project
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/bin/Debug/net6.0/project.deps.json
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/bin/Debug/net6.0/project.runtimeconfig.json
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/bin/Debug/net6.0/project.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/bin/Debug/net6.0/project.pdb
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/project.AssemblyInfo.cs
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/project.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/refint/project.dll
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/project.pdb
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/project.genruntimeconfig.cache
+/Users/ekaterina-chusova/Documents/GeekBrains/GB_test/project/obj/Debug/net6.0/ref/project.dll
